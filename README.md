@@ -86,7 +86,7 @@ import os
 import random
 from datetime import datetime
 
-os.chdir("C:\\Users\\anola\\Desktop\\Mushbot")
+os.chdir("YOURPATHDIR")
 
 client = commands.Bot(command_prefix="?")
 

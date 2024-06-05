@@ -2,6 +2,10 @@
 
 Mushbot is a Discord bot designed for an interactive and fun experience involving gathering and managing virtual mushrooms and currency. Users can perform various actions like checking their balance, converting mushrooms to currency, searching for mushrooms in different areas, purchasing items from the shop, and more.
 
+## Screenshot
+
+![image](https://github.com/Mushroom-Ano/Discord-Moderation-Bot/assets/81051693/b4c80c09-0112-4ca7-8089-aacb27752210)
+
 ## Features
 
 - **Balance and Inventory**: Check your current mushroom and coin balance.
